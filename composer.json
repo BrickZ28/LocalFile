@@ -1,5 +1,5 @@
 {
-    "name": "michaeldrennen/local-file",
+    "name": "brickz28/localfile",
     "description": "A PHP package to handle local file operations.",
     "type": "library",
     "license": "MIT",
